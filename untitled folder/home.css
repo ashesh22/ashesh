@@ -1,0 +1,65 @@
+
+ .main{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+ }
+ .abcd{
+
+    display: flex;
+    width: 20%;
+    flex-direction: column;
+    align-items: center;
+  
+     }
+ nav {
+    
+  
+    height: 100%; 
+    background: #ccc;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  
+  nav ul {
+    list-style-type: none;
+  margin: 20px;
+  }
+
+  .esh div{
+    display:inline-block;
+
+   
+   margin: 10px;
+   
+  }
+  
+  .first{
+ width: fit-content;
+ height: fit-content;
+ 
+ 
+   color: blue;
+   border-radius: 10px;
+   
+ 
+  }
+  .first img{
+    
+    padding:5px ;
+margin: 0%;
+    height: 200px;
+   
+    border-radius: 100%;
+ 
+  }
+  
+  .first p{
+    margin: 0%;
+   padding-left: 20px;
+  }
+  
+  
+  
+ 
